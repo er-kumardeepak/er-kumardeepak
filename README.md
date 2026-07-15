@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
+
 # Hi There, I'm Deepak Kumar 👋
 
 </div>
@@ -80,8 +82,9 @@ Built with **React.js**, **Node.js**, **Express.js**, **MongoDB**, JavaScript, H
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-lemon-eight.vercel.app/api?username=er-kumardeepak&show_icons=true&theme=dark&hide_border=true" width="48%" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=er-kumardeepak&show_icons=true&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=er-kumardeepak&theme=dark&hide_border=true" width="48%" />
 
 </div>
 
