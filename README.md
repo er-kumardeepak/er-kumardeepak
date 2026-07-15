@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 # Hi There, I'm Deepak Kumar 👋
 
 </div>
@@ -83,7 +81,7 @@ Built with **React.js**, **Node.js**, **Express.js**, **MongoDB**, JavaScript, H
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=er-kumardeepak&show_icons=true&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=er-kumardeepak&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=er-kumardeepak&theme=dark&hide_border=true" width="48%" />
 
 </div>
