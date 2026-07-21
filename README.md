@@ -77,16 +77,15 @@ Built with **React.js**, **Node.js**, **Express.js**, **MongoDB**, JavaScript, H
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<!-- <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=er-kumardeepak&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=er-kumardeepak&theme=dark&hide_border=true" width="48%" />
-
-</div> -->
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=er-kumardeepak&theme=dark&hide_border=true" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=er-kumardeepak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=er-kumardeepak&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-kumardeepak&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 
 </div>
 
