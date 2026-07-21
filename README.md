@@ -81,11 +81,11 @@ Built with **React.js**, **Node.js**, **Express.js**, **MongoDB**, JavaScript, H
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=er-kumardeepak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=er-kumardeepak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=er-kumardeepak&theme=tokyonight&hide_border=true" width="49%" />
+<img height="170" src="https://streak-stats.demolab.com?user=er-kumardeepak&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-kumardeepak&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-kumardeepak&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
